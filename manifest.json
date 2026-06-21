@@ -1,0 +1,15 @@
+{
+  "name": "ライフプラン シミュレーター",
+  "short_name": "ライフプラン",
+  "description": "家族の将来の資産・収支を30年間シミュレーションするファイナンシャルプランツール",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EAF5EC",
+  "theme_color": "#085041",
+  "lang": "ja",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
